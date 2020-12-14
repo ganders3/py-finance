@@ -1,0 +1,30 @@
+{
+	"gold": {
+		"1oz coin": {
+			"quantity": 1,
+			"weight": 1
+		}
+	},
+	"silver": {
+		"1oz coin": {
+			"quantity": 1,
+			"weight": 1
+		},
+		"10oz bar": {
+			"quantity": 1,
+			"weight": 10
+		}
+	},
+	"platinum": {
+		"1oz coin": {
+			"quantity": 1,
+			"weight": 1
+		}
+	},
+	"palladium": {
+		"1oz coin": {
+			"quantity": 1,
+			"weight": 1
+		}
+	}
+}
